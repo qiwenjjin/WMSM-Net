@@ -1,5 +1,5 @@
 # WMSM-Net
-A Wavelet-Driven State-Space Architecture for Hyperspectral Unmixing via Physically-Grounded Endmember Optimization
+Code for paper：A Wavelet-Driven State-Space Architecture for Hyperspectral Unmixing via Physically-Grounded Endmember Optimization
 
 # Qualitative results
 ![jasper_endmember](https://raw.githubusercontent.com/qiwenjjin/WMSM-Net/main/figures/jasper_endmember.svg)
