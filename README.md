@@ -1,5 +1,5 @@
 # WMSM-Net
-#Code for paper：A Wavelet-Driven State-Space Architecture for Hyperspectral Unmixing via Physically-Grounded Endmember Optimization
+# Code for paper：A Wavelet-Driven State-Space Architecture for Hyperspectral Unmixing via Physically-Grounded Endmember Optimization
 Qiwen Jin, Ziheng Wei, Quan Liu, Jiwei Hu, Chengli Peng∗ and Hao Zhang∗
 
 # Abstract
