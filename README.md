@@ -34,4 +34,5 @@ For synthetic experiments, set `--snr` to `10`, `20`, `30`, or `40`. Model check
 
 # Citation
 Please kindly cite the paper if this code is useful and helpful for your research.
+
 Qiwen Jin, Ziheng Wei, Quan Liu, Jiwei Hu, Chengli Peng∗ and Hao Zhang, "A Wavelet-Driven State-Space Architecture for Hyperspectral Unmixing via Physically-Grounded Endmember Optimization", in IEEE Transactions on Geoscience and Remote Sensing
